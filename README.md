@@ -141,6 +141,106 @@ A community-driven, manually curated index of websites, apps, and services for A
 ---
 <br>
 
+## 📚 Manga Reading
+- **[Comix](https://comix.to/home)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaFire](https://mangafire.to/home)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Mangaball](https://mangaball.net/)**  `HUB`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Atsumaru](https://atsu.moe/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Weeb Central](https://weebcentral.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Mangago](https://www.mangago.me/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Mangadotnet](https://mangadot.net/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Bookwalker](https://bookwalker.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Rakuten Kobo](https://www.kobo.com/en/ebooks/manga)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[VyManga](https://vymanga.net/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaTaro](https://mangataro.org/home)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[AllManga](https://allmanga.to/manga)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaCloud](https://mangacloud.org/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[OniSaga](https://onisaga.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaKatana](https://mangakatana.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Cubari Proxy](https://proxy.cubari.moe/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[KaliScan](https://kaliscan.io/home)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaBuddy](https://mangabuddy.com/home)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaDex](https://mangadex.org/)**  `HUB`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaHub](https://mangahub.io/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Dynasty Reader](https://dynasty-scans.com/)**  `HUB`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[LikeManga](https://likemanga.ink/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[ComiKuro](https://comikuro.to/)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MANGA Plus](https://mangaplus.shueisha.co.jp)**  `LICENSED`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Coolmic](https://coolmic.me/)**  `LICENSED`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Omoi](https://www.omoi.com/)**  `LICENSED`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[NineManga](https://www.ninemanga.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Manganato.gg](https://www.manganato.gg/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Zinmanga](https://www.zinmanga.net/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Mangafox](https://fanfox.net)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaTown](https://mangatown.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaHome](https://www.mangahome.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Mangalink](https://linkmanga.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaFreak](https://mangafreak.me)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[ReiManga](https://reimanga.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaBTT](https://manhwabtt.cc/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Ninekon](https://app.ninekon.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[ManhuaPlus](https://manhuaplus.top/)**  `MANHUA`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Mangapill](https://mangapill.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Mangakawaii](https://www.mangakawaii.io/)**  `HUB`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[mangageko](https://www.mgeko.cc/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaDE](https://mangade.io/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[GodaComic](https://manhuascans.org/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[JP Book Store](https://jpbookstore.com/collections/light-novel)**  `LICENSED` `PHYSICAL`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[K MANGA](https://kmanga.kodansha.com/)**  `LICENSED`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Pixiv Comics](https://comic.pixiv.net/)**  `RAW` `LICENSED`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Lunar Animes - Manga](https://lunaranime.ru/manga)**  `MULT`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Kissmanga.in](https://kissmanga.in/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Yaoiscan](https://yaoiscan.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[YomiManga](https://yomimanga.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaBay](https://manga-bay.org/)**  `LOGIN`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[RawOtaku](https://rawotaku.com/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[KT9](https://klto9.com/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Hachiraw](https://hachiraw.win/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaRaw4u](https://mangaraw4u.com/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Nicomanga](https://nicomanga.com/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Rawdevart](https://rawdevart.art/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[RawSakura](https://rawsakura.org/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[BilingualManga](https://bilingualmanga.org/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[NihonKuni](https://nihonkuni.com/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Raw Manga](https://mangaraw.org/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Rawkuma](https://rawkuma.net/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[漫画 raw](https://mangaraw.best/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[WeLoMa](https://weloma.art/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Spoilerplus](https://spoilerplus.tv/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[RawLazy](https://rawlazy.io/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[raw1001](https://raw1001.net/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Happymh](https://happymh.com/)**  `RAW` `MANHUA`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Baozi Manhua](https://baozimh.org/)**  `RAW` `MANHUA`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Twmanga](https://www.twbzmg.com/)**  `RAW` `MANHUA`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[SenManga](https://raw.senmanga.com/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[RawFree](https://rawfree.me/)**  `RAW`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaPlaza](https://mangaplaza.com/)**  `LICENSED`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Manga Mirai](https://mangamirai.com/)**  `LICENSED`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaMikan](https://mangamikan.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Danke fürs Lesen](https://danke.moe/)**  `SCAN`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Hachirumi](https://hachirumi.com/)**  `SCAN`  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Akari Manga](https://akarimanga.dpdns.org/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[ManhuaBuddy](https://manhuabuddy.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[ReadManga](https://readmanga.cc/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Armageddon](https://silentquill.net/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[PAWMANGA](https://pawmanga.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Mangaclash](https://toonclash.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Lilymanga](https://lilymanga.net/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Comicless](https://comicless.com/library/?cid=3)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaDoom](https://manga-doom.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaPanda](https://www.mangapanda.in/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaCherri](https://mangacherri.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[MangaRead](https://mangaread.org/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Mangago.io](https://mangago.io/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Aqua manga](https://aquareader.net/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Todaymanga](https://todaymanga.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Mangahot](https://manhuahot.com/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[CoffeManga](https://coffeemanga.io/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+- **[Mangasushi](https://mangasushi.org/)**  <img src="https://img.shields.io/badge/status-new-blue" height="15" alt="New">
+
+---
+<br>
+
 
 ## 🤝 Contributing
 
