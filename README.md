@@ -35,7 +35,7 @@ A community-driven, manually curated index of websites, apps, and services for A
 - [🎬 Anime Streaming](#-anime-streaming)
 - [📚 Manga Reading](#-manga-reading)
 - [🇰🇷 Manhwa Reading](#-manhwa-reading)
-- [🇨🇳 Donghua Reading](#-donghua-streaming)
+- [🇨🇳 Donghua Streaming](#-donghua-streaming)
 - [📖 Novel Reading](#-novel-reading)
 
 <!---
